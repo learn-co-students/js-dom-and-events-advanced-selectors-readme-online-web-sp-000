@@ -1,5 +1,5 @@
 # jQuery Selectors
-
+small change to trigger push
 ## Objectives
 
 - Explain the purpose of a DOM selector
